@@ -1,0 +1,7 @@
+Introduction to Algorithms,Thomas H. Cormen,MIT Press,CS001,59.99,10
+Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,Prentice Hall,CS002,39.99,8
+The Pragmatic Programmer: Your Journey to Mastery,Andrew Hunt and David Thomas,Addison-Wesley,CS003,49.99,5
+Design Patterns: Elements of Reusable Object-Oriented Software,Erich Gamma et al.,Addison-Wesley,CS004,44.99,12
+Code: The Hidden Language of Computer Hardware and Software,Charles Petzold,Microsoft Press,CS005,29.99,7
+Structure and Interpretation of Computer Programs,Harold Abelson and Gerald Jay Sussman,MIT Press,CS006,54.99,6
+The Art of Computer Programming,Donald E. Knuth,Addison-Wesley,CS007,64.99,9

@@ -1,0 +1,7 @@
+1001011, Michael Doe, Sarah Doe, 123 Main St, A+
+1001012, Bob Johnson, Carol Johnson, 456 Elm St, B-
+2110307, Sanjeev Singh, Manisha Singh, B330 East Korea, O+
+2100301, Ryan Malhotra, Darla Malhotra, Gurgaon Sector 2, B+
+2110317, Sourabh Jha, Aashi Jha, Kolkata C19, A+
+2118307, Shiv, Riya, Vasundhara, A-
+2110304, Giresh Singh, Maya Singh, B20 East Kolkata, B+
